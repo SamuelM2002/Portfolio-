@@ -29,7 +29,7 @@ body{
 
 header{
     margin-top: 20px;
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
     width: 100%;
@@ -231,7 +231,7 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Estagiário de apoio à coordenação escolar";
+        content: "Apoio à coordenação escolar";
     }
     21%, 40%{
         content: "Aprendiz | Canais Digitais";
